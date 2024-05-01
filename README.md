@@ -12,7 +12,7 @@ conda create -n tools python=3.11
 conda activate tools
 pip install -r requirements.txt
 ```
-Ensure that [**ffmpeg**](https://ffmpeg.org/download.html) is successfully installed. After installation, write the path of ffmpeg to the `.env` file, using `.env.example` as a template for reference.
+Ensure that [**ffmpeg**](https://ffmpeg.org/download.html) is successfully installed. After installation, write the path of ffmpeg <**FFMPEG**> to the `.env` file, using `env.example` as a template for reference.
 
 ### Usage
 For guidance on how to use these tools, refer to the examples in `tool_usage.ipynb`.
