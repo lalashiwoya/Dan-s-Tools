@@ -1,0 +1,9 @@
+mp4
+ffmpeg
+*gif
+uploads
+.env
+converted
+__pycache__
+!test_*.ipynb
+*ipynb
