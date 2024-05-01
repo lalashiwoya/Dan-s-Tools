@@ -6,5 +6,5 @@ uploads
 converted
 __pycache__
 *ipynb
-!test_*.ipynb
+!tool_usage.ipynb
 .pytest_cache
