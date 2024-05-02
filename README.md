@@ -2,6 +2,7 @@
 
 1. **MP4toGIF Tool**
 2. **MP4 Speed Change**
+3. **Pdf Merge**
 
 ### Setup
 
